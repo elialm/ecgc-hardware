@@ -11,7 +11,7 @@ The `CartGen3ProtoBoard` directory contains the schematics for the
 (at the time) current prototype.
 The photograph below is this prototype.
 
-**TODO: insert photo**
+![image](https://user-images.githubusercontent.com/43206514/217519505-81669f43-df62-44b2-97f7-6338e39c4504.png)
 
 # Development tools
 
