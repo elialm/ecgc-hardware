@@ -1,12 +1,20 @@
 # ecgc-hardware
-Hardware documentation of the cartridge
 
-This repo contains all relavant documentation of the cartridge hardware.
-It currently only contains the 3th generation prototype schematic, but will include more:
+This repo contains all relevant documentation of the cartridge hardware.
 
-- Legacy documentation
-    - Old research reports
-    - Old hardware reports
-    - 1st and 2nd generation prototypes schematics
+The `legacy` directory contains legacy documentation.
+This is just a collection of documents I made *waaaay* back when I was
+just starting on the project.
+It is included here just as an archive so I don't plan on updating anything.
 
-I'll add them when I get the change
+The `CartGen3ProtoBoard` directory contains the schematics for the
+(at the time) current prototype.
+The photograph below is this prototype.
+
+![image](https://user-images.githubusercontent.com/43206514/217519505-81669f43-df62-44b2-97f7-6338e39c4504.png)
+
+# Development tools
+
+The tools used to make the schematics is [KiCad](https://www.kicad.org/).
+It can be used to open the `CartGen3.kicad_pro` file to open the schematic
+project.

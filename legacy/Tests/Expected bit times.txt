@@ -1,0 +1,16 @@
+init
+set_cmd,<cmd>
+set_arg,<arg>
+send_cmd
+read_response,<n>
+
+TODO:
+	- implement spi tx buf (os compatible)
+	- 2 Mb/s = 0.5 us/b = 4 us/B
+		- 16 us/buffer (buf = 4)
+		- 24 us/buffer (buf = 6)
+		- 128 us/buffer (buf = 32)
+	- 250 kb/s = 4 us/b = 32 us/B
+		- 128 us/buffer (buf = 4)
+		- 192 us/buffer (buf = 6)
+		- 1024 us/buffer (buf = 32)
