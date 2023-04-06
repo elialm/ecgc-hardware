@@ -299,7 +299,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "OrcadPCB2",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
@@ -340,6 +340,10 @@
     [
       "4b2118cf-fb52-4113-a818-0a42fecbb1e6",
       "fpga"
+    ],
+    [
+      "73c1eee2-05c6-471c-a3e5-93be837b155c",
+      "audio"
     ]
   ],
   "text_variables": {}
