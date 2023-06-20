@@ -344,6 +344,10 @@
     [
       "73c1eee2-05c6-471c-a3e5-93be837b155c",
       "audio"
+    ],
+    [
+      "ebeeec6e-78d4-4657-a845-c0d00b5092fb",
+      "audio_mixer"
     ]
   ],
   "text_variables": {}
