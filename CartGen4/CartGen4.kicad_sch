@@ -8,50 +8,62 @@
   )
 
 
-  (sheet (at 26.67 40.64) (size 20.32 12.7) (fields_autoplaced)
+  (sheet (at 25.4 38.1) (size 20.32 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 4ef07d45-f940-4cb6-bb96-2ddec13fd099)
-    (property "Sheet name" "power_and_connectors" (id 0) (at 26.67 39.9284 0)
+    (property "Sheet name" "power_and_connectors" (id 0) (at 25.4 37.3884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "power_and_connectors.kicad_sch" (id 1) (at 26.67 53.9246 0)
+    (property "Sheet file" "power_and_connectors.kicad_sch" (id 1) (at 25.4 51.3846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
 
-  (sheet (at 26.67 88.9) (size 20.32 12.7) (fields_autoplaced)
+  (sheet (at 25.4 88.9) (size 20.32 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 67020394-371c-451d-9641-dd6c212cfc5e)
-    (property "Sheet name" "bus-transceivers" (id 0) (at 26.67 88.1884 0)
+    (property "Sheet name" "bus-transceivers" (id 0) (at 25.4 88.1884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "bus-transceivers.kicad_sch" (id 1) (at 26.67 102.1846 0)
+    (property "Sheet file" "bus-transceivers.kicad_sch" (id 1) (at 25.4 102.1846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
 
-  (sheet (at 26.67 64.77) (size 20.32 12.7) (fields_autoplaced)
+  (sheet (at 25.4 139.7) (size 20.32 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6fc5aafb-5a22-4bda-8f08-f38eb0e112cc)
+    (property "Sheet name" "ram" (id 0) (at 25.4 138.9884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "ram.kicad_sch" (id 1) (at 25.4 152.9846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
+  (sheet (at 25.4 63.5) (size 20.32 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 76bc839d-93e8-4c60-b95d-ac552335ae99)
-    (property "Sheet name" "gb_reset" (id 0) (at 26.67 64.0584 0)
+    (property "Sheet name" "gb_reset" (id 0) (at 25.4 62.7884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "gb_reset.kicad_sch" (id 1) (at 26.67 78.0546 0)
+    (property "Sheet file" "gb_reset.kicad_sch" (id 1) (at 25.4 76.7846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
 
-  (sheet (at 26.67 111.76) (size 20.32 12.7) (fields_autoplaced)
+  (sheet (at 25.4 114.3) (size 20.32 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
     (uuid 89c162de-8374-4cb6-9c74-abac2a052a8d)
-    (property "Sheet name" "fpga" (id 0) (at 26.67 111.0484 0)
+    (property "Sheet name" "fpga" (id 0) (at 25.4 113.5884 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "fpga.kicad_sch" (id 1) (at 26.67 125.0446 0)
+    (property "Sheet file" "fpga.kicad_sch" (id 1) (at 25.4 127.5846 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
@@ -62,6 +74,7 @@
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99" (page "3"))
     (path "/67020394-371c-451d-9641-dd6c212cfc5e" (page "4"))
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d" (page "5"))
+    (path "/6fc5aafb-5a22-4bda-8f08-f38eb0e112cc" (page "6"))
   )
 
   (symbol_instances
@@ -272,9 +285,6 @@
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/97bdfb52-ab6f-4344-9878-223f7f566322"
       (reference "C25") (unit 1) (value "0.022uF") (footprint "")
     )
-    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/779a694e-7da6-4a21-b5eb-83d9a87bedcf"
-      (reference "IC?") (unit 1) (value "LFXP2-8E-5MN132C") (footprint "BGA132C50P14X14_800X800X135")
-    )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_1008_2520Metric")
     )
@@ -331,6 +341,39 @@
     )
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/a4ff98b7-2723-49a4-abd8-1571cce7f93e"
       (reference "U4") (unit 1) (value "SN74AVC16827DGGR") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/3b80cf20-b12b-49a6-84bd-473603c85348"
+      (reference "U?") (unit 1) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/6fc5aafb-5a22-4bda-8f08-f38eb0e112cc/583b625d-197e-4c6f-9f56-0c49ec079aa7"
+      (reference "U?") (unit 1) (value "AS1C8M16PL-70BIN") (footprint "BGA49C50P7X7_400X400X100")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/1765047d-477d-4e9e-a14b-c311772de8ac"
+      (reference "U?") (unit 2) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/f61655d7-5449-47b8-9e48-9d7ea80abb6f"
+      (reference "U?") (unit 3) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/c39ad1a9-2c59-481d-9cf3-32a127a43b1d"
+      (reference "U?") (unit 4) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/03031b1d-3503-4fbb-bb1d-d0daee267daa"
+      (reference "U?") (unit 5) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/c0ae4ece-7462-465e-9c01-02b01c36e260"
+      (reference "U?") (unit 6) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/f190f8af-9d18-4cca-84ff-7cbb88c4fd8f"
+      (reference "U?") (unit 7) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/348f0dc1-2fce-4d8e-8a95-66b79092ec52"
+      (reference "U?") (unit 8) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/b7d43457-8a30-461a-9b4f-a37a3e412df8"
+      (reference "U?") (unit 9) (value "LFXP2-8E-5MN132C") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/2c70d510-d60c-4bed-aef6-47a1a52339b8"
+      (reference "U?") (unit 10) (value "LFXP2-8E-5MN132C") (footprint "")
     )
   )
 )
