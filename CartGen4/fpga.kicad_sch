@@ -617,7 +617,7 @@
   )
 
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 35.56 104.14 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 35.56 104.14 0) (unit 5)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 03031b1d-3503-4fbb-bb1d-d0daee267daa)
     (property "Reference" "U?" (id 0) (at 62.23 119.3799 0)
@@ -644,7 +644,7 @@
     (pin "P9" (uuid 15ce83ed-8715-4d66-946a-945b08bd166f))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 83.82 35.56 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 83.82 35.56 0) (unit 2)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1765047d-477d-4e9e-a14b-c311772de8ac)
     (property "Reference" "U?" (id 0) (at 110.49 45.7199 0)
@@ -667,7 +667,7 @@
     (pin "C12" (uuid 513578c7-a30d-4695-b141-34a581b1d4cb))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 142.24 135.89 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 142.24 135.89 0) (unit 10)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 2c70d510-d60c-4bed-aef6-47a1a52339b8)
     (property "Reference" "U?" (id 0) (at 168.91 162.5599 0)
@@ -701,7 +701,7 @@
     (pin "P8" (uuid 0d322a60-9cc8-438d-bd3e-ef3d0c0b9599))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 234.95 80.01 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 234.95 80.01 0) (unit 8)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 348f0dc1-2fce-4d8e-8a95-66b79092ec52)
     (property "Reference" "U?" (id 0) (at 261.62 107.9499 0)
@@ -738,7 +738,7 @@
     (pin "H3" (uuid dfca63d2-44ed-4e74-88d2-b1aeb5986752))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 30.48 19.05 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 30.48 19.05 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 3b80cf20-b12b-49a6-84bd-473603c85348)
     (property "Reference" "U?" (id 0) (at 57.15 49.5299 0)
@@ -777,7 +777,7 @@
     (pin "C9" (uuid ad0be7b5-1b1d-4986-a144-65a8f35426b2))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 63.5 167.64 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 63.5 167.64 0) (unit 9)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid b7d43457-8a30-461a-9b4f-a37a3e412df8)
     (property "Reference" "U?" (id 0) (at 77.47 175.2599 0)
@@ -799,7 +799,7 @@
     (pin "L13" (uuid 523e2a19-cb49-4419-b137-24d78a8c7ff1))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 100.33 90.17 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 100.33 90.17 0) (unit 6)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c0ae4ece-7462-465e-9c01-02b01c36e260)
     (property "Reference" "U?" (id 0) (at 127 115.5699 0)
@@ -834,7 +834,7 @@
     (pin "P7" (uuid cdcc3576-53b6-4688-9547-5aba0ce2c025))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 218.44 33.02 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 218.44 33.02 0) (unit 4)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c39ad1a9-2c59-481d-9cf3-32a127a43b1d)
     (property "Reference" "U?" (id 0) (at 245.11 43.1799 0)
@@ -857,7 +857,7 @@
     (pin "N14" (uuid 0fbb8815-5482-49f6-beb1-b8d177141383))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 165.1 91.44 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 165.1 91.44 0) (unit 7)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f190f8af-9d18-4cca-84ff-7cbb88c4fd8f)
     (property "Reference" "U?" (id 0) (at 191.77 104.1399 0)
@@ -882,7 +882,7 @@
     (pin "P1" (uuid c42705c7-fca1-4365-9760-070e129a1732))
   )
 
-  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 148.59 20.32 0)
+  (symbol (lib_id "FPGA_Lattice:LFXP2-8E-5MN132C") (at 148.59 20.32 0) (unit 3)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid f61655d7-5449-47b8-9e48-9d7ea80abb6f)
     (property "Reference" "U?" (id 0) (at 175.26 48.2599 0)
