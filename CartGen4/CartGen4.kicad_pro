@@ -434,6 +434,10 @@
     [
       "6fc5aafb-5a22-4bda-8f08-f38eb0e112cc",
       "ram"
+    ],
+    [
+      "a842574a-62bd-4545-b3b1-b3137c6c2721",
+      "spi"
     ]
   ],
   "text_variables": {}
