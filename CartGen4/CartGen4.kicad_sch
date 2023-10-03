@@ -256,6 +256,9 @@
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/97b2c2fb-5589-41f0-bcb4-c80098f1ce20"
       (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
+    (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/acd7f89e-d429-48c2-8936-23f987e03b93"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/ae1dd4cd-b33f-493a-adda-4871546ee7b9"
       (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
@@ -273,6 +276,9 @@
     )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/ce87cb22-b308-4914-a578-ca6211c9c039"
       (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+    )
+    (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/cfb4f996-6ff8-406d-b4e5-a8958084f4d8"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/d27fbae0-a040-4d70-bc2f-28077b52f72f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -367,6 +373,9 @@
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/d65d6728-2380-456a-a9d1-baa122edbe74"
       (reference "C?") (unit 1) (value "100n") (footprint "")
     )
+    (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/18009ba6-fe8f-48ae-b5c0-f735d659a1e6"
+      (reference "D?") (unit 1) (value "PESD3V3Y1BSFYL") (footprint "")
+    )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/1eaa675f-d411-4e9f-af7f-e72864d0e0e1"
       (reference "J?") (unit 1) (value "MEM2080-00-128-00-A") (footprint "")
     )
@@ -429,6 +438,9 @@
     )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/f0f02253-49b5-4d4f-af3f-1b2d3b690b4e"
       (reference "R?") (unit 1) (value "15K") (footprint "")
+    )
+    (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/c43d5633-4057-4338-a482-2b064b4fd4ae"
+      (reference "SW?") (unit 1) (value "SW_Push") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/e190d083-d82d-481a-a7b8-1c8c0afec670"
       (reference "U1") (unit 1) (value "TPS65266-1RHBR") (footprint "QFN50P500X500X100-33N-D")
