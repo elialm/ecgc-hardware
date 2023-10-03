@@ -577,7 +577,7 @@
   )
 
   (no_connect (at 87.63 130.81) (uuid 7f439f8a-6cf8-49e9-8ab8-b2fad7820184))
-  (no_connect (at 87.63 148.59) (uuid 7f439f8a-6cf8-49e9-8ab8-b2fad7820184))
+  (no_connect (at 87.63 148.59) (uuid 7f439f8a-6cf8-49e9-8ab8-b2fad7820185))
 
   (wire (pts (xy 85.09 143.51) (xy 87.63 143.51))
     (stroke (width 0) (type default) (color 0 0 0 0))
