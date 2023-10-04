@@ -400,8 +400,20 @@
     (path "/c0de9d84-51e9-4175-bb13-3213096ac344/0b63f58d-2d8d-477c-9e92-806c49e9aa81"
       (reference "#PWR097") (unit 1) (value "GND") (footprint "")
     )
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/93aa40b6-bef5-42fa-8e30-902e4ca42004"
+      (reference "#PWR098") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/74b91311-c571-4be4-b48f-44583fe63ca4"
+      (reference "#PWR099") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/b6280de6-3c34-4640-868d-ea1ae178502d"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1b8d5810-67b5-41f5-a4e9-e6c2cc9fec50"
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")
+    )
+    (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/ec3c893d-0b04-48cd-8e04-cc089172a9c9"
+      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/fd015f0a-0a40-4f15-9862-fbd574b0a42c"
       (reference "C1") (unit 1) (value "10u") (footprint "")
@@ -517,11 +529,17 @@
     (path "/c0de9d84-51e9-4175-bb13-3213096ac344/3b6d8512-1f30-4c97-aa76-6b2e43faa5bc"
       (reference "C38") (unit 1) (value "100n") (footprint "")
     )
+    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/454ea407-2f72-4fa0-894f-85a6430a855f"
+      (reference "C39") (unit 1) (value "100n") (footprint "")
+    )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/18009ba6-fe8f-48ae-b5c0-f735d659a1e6"
       (reference "D1") (unit 1) (value "PESD3V3Y1BSFYL") (footprint "")
     )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/1eaa675f-d411-4e9f-af7f-e72864d0e0e1"
       (reference "J1") (unit 1) (value "MEM2080-00-128-00-A") (footprint "")
+    )
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/4ef82506-97c9-41d2-9208-e5f94a2531cb"
+      (reference "J2") (unit 1) (value "Conn_01x06_Male") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_1008_2520Metric")
