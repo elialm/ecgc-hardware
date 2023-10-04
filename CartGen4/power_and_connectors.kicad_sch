@@ -739,6 +739,7 @@
     )
   )
 
+
   (junction (at 120.65 44.45) (diameter 0) (color 0 0 0 0)
     (uuid 01a3cd73-9c2c-43cf-ad62-c0e5060d2128)
   )
@@ -2119,7 +2120,7 @@
   (symbol (lib_id "Device:R") (at 43.18 72.39 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 1f17bc6d-9179-47ee-8555-fc3990f04467)
-    (property "Reference" "R?" (id 0) (at 45.72 71.1199 0)
+    (property "Reference" "R12" (id 0) (at 45.72 71.1199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "50K" (id 1) (at 45.72 73.6599 0)
