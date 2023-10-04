@@ -6,6 +6,7 @@
 
   (title_block
     (title "FPGA connections 1")
+    (company "© Elijah Almeida Coimbra")
   )
 
   (lib_symbols

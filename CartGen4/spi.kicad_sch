@@ -6,6 +6,7 @@
 
   (title_block
     (title "SPI bus and peripherals")
+    (company "© Elijah Almeida Coimbra")
   )
 
   (lib_symbols

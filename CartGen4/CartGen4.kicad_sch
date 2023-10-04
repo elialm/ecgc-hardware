@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Root sheet")
+    (company "© Elijah Almeida Coimbra")
+  )
+
   (lib_symbols
   )
 
