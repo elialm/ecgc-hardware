@@ -797,7 +797,7 @@
     (uuid b011ee57-cad9-41fe-98b0-195311c21868)
     (property "Reference" "U3" (id 0) (at 78.74 53.34 0))
     (property "Value" "SIT8008BI-73-33E-33.333333G" (id 1) (at 80.01 55.88 0))
-    (property "Footprint" "" (id 2) (at 72.39 58.42 0)
+    (property "Footprint" "SamacSys_Parts:SIT8008BI-73-33E-33.333333G" (id 2) (at 72.39 58.42 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://nl.mouser.com/datasheet/2/371/SiT8008B_datasheet-1291019.pdf" (id 3) (at 72.39 68.58 0)

@@ -614,7 +614,7 @@
       (reference "U2") (unit 1) (value "SN74LV1T34DCKR") (footprint "SamacSys_Parts:SOT65P210X110-5N")
     )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/b011ee57-cad9-41fe-98b0-195311c21868"
-      (reference "U3") (unit 1) (value "SIT8008BI-73-33E-33.333333G") (footprint "")
+      (reference "U3") (unit 1) (value "SIT8008BI-73-33E-33.333333G") (footprint "SamacSys_Parts:SIT8008BI-73-33E-33.333333G")
     )
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/a514e25b-2da3-471b-8ad4-32ff0fde0783"
       (reference "U4") (unit 1) (value "NXS0108BQX") (footprint "")
