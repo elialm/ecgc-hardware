@@ -425,7 +425,7 @@
       (reference "C3") (unit 1) (value "2n7") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/0c0c8ae3-dfea-4cc3-9bdc-c2dcb7150f88"
-      (reference "C4") (unit 1) (value "47n 10V") (footprint "")
+      (reference "C4") (unit 1) (value "47n") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/e45bde6b-6e64-4e40-ae94-5dab729c5e38"
       (reference "C5") (unit 1) (value "10u") (footprint "")
@@ -440,13 +440,13 @@
       (reference "C8") (unit 1) (value "22u") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/f270343e-b3d8-4b29-ba5c-d4abf93597ec"
-      (reference "C9") (unit 1) (value "47n 10V") (footprint "")
+      (reference "C9") (unit 1) (value "47n") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/d64e370f-e2bd-4064-950f-83f46df7bb61"
       (reference "C10") (unit 1) (value "22u") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/0ec4bcf3-e826-4834-be4d-b2752f0c2777"
-      (reference "C11") (unit 1) (value "47n 10V") (footprint "")
+      (reference "C11") (unit 1) (value "47n") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/414383e9-27fa-43de-9974-d8d318075a13"
       (reference "C12") (unit 1) (value "22u") (footprint "")
