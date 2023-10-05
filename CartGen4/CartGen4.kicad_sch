@@ -608,10 +608,10 @@
       (reference "SW1") (unit 1) (value "SW_Push") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/e190d083-d82d-481a-a7b8-1c8c0afec670"
-      (reference "U1") (unit 1) (value "TPS65266-1RHBR") (footprint "QFN50P500X500X100-33N-D")
+      (reference "U1") (unit 1) (value "TPS65266-1RHBR") (footprint "SamacSys_Parts:QFN50P500X500X100-33N-D")
     )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/4ac21eec-4871-494e-81dc-4764ce424ca8"
-      (reference "U2") (unit 1) (value "SN74LV1T34DCKR") (footprint "SOT65P210X110-5N")
+      (reference "U2") (unit 1) (value "SN74LV1T34DCKR") (footprint "SamacSys_Parts:SOT65P210X110-5N")
     )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/b011ee57-cad9-41fe-98b0-195311c21868"
       (reference "U3") (unit 1) (value "SIT8008BI-73-33E-33.333333G") (footprint "")
@@ -620,7 +620,7 @@
       (reference "U4") (unit 1) (value "NXS0108BQX") (footprint "")
     )
     (path "/6fc5aafb-5a22-4bda-8f08-f38eb0e112cc/583b625d-197e-4c6f-9f56-0c49ec079aa7"
-      (reference "U5") (unit 1) (value "AS1C8M16PL-70BIN") (footprint "BGA49C50P7X7_400X400X100")
+      (reference "U5") (unit 1) (value "AS1C8M16PL-70BIN") (footprint "SamacSys_Parts:BGA49C50P7X7_400X400X100")
     )
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/298b3924-c518-497f-9a68-8eddda86b6ff"
       (reference "U6") (unit 1) (value "NXS0108BQX") (footprint "")

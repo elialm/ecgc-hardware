@@ -1241,7 +1241,7 @@
     (uuid 583b625d-197e-4c6f-9f56-0c49ec079aa7)
     (property "Reference" "U5" (id 0) (at 139.7 45.72 0))
     (property "Value" "AS1C8M16PL-70BIN" (id 1) (at 139.7 48.26 0))
-    (property "Footprint" "BGA49C50P7X7_400X400X100" (id 2) (at 152.4 50.8 0)
+    (property "Footprint" "SamacSys_Parts:BGA49C50P7X7_400X400X100" (id 2) (at 152.4 50.8 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.alliancememory.com/wp-content/uploads/pdf/psram/AllianceMemory_128M_LP-PSRAM-CellularRAM_x2stack_AS1C8M16PL-70BIN_August2018-v1.0.pdf" (id 3) (at 152.4 53.34 0)

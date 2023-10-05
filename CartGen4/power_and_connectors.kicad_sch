@@ -3190,7 +3190,7 @@
     (uuid e190d083-d82d-481a-a7b8-1c8c0afec670)
     (property "Reference" "U1" (id 0) (at 107.95 60.7312 0))
     (property "Value" "TPS65266-1RHBR" (id 1) (at 107.95 63.2712 0))
-    (property "Footprint" "QFN50P500X500X100-33N-D" (id 2) (at 99.06 54.61 0)
+    (property "Footprint" "SamacSys_Parts:QFN50P500X500X100-33N-D" (id 2) (at 99.06 54.61 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/tps65266-1" (id 3) (at 99.06 57.15 0)

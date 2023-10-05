@@ -726,7 +726,7 @@
     (uuid 4ac21eec-4871-494e-81dc-4764ce424ca8)
     (property "Reference" "U2" (id 0) (at 78.74 110.49 0))
     (property "Value" "SN74LV1T34DCKR" (id 1) (at 78.74 113.03 0))
-    (property "Footprint" "SOT65P210X110-5N" (id 2) (at 87.63 115.57 0)
+    (property "Footprint" "SamacSys_Parts:SOT65P210X110-5N" (id 2) (at 87.63 115.57 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/gpn/sn74lv1t34" (id 3) (at 87.63 118.11 0)
