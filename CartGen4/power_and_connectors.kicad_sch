@@ -2667,7 +2667,7 @@
     (uuid 4ef82506-97c9-41d2-9208-e5f94a2531cb)
     (property "Reference" "J2" (id 0) (at 43.815 162.56 0))
     (property "Value" "Conn_01x06_Male" (id 1) (at 43.815 165.1 0))
-    (property "Footprint" "SamacSys_Parts:Pads_1x6_P2.54mm" (id 2) (at 43.18 172.72 0)
+    (property "Footprint" "" (id 2) (at 43.18 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 43.18 172.72 0)

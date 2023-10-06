@@ -1477,7 +1477,7 @@
     (property "Value" "Battery_Cell" (id 1) (at 187.96 94.4879 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 184.15 93.726 90)
+    (property "Footprint" "Battery:Battery_CR1225" (id 2) (at 184.15 93.726 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 184.15 93.726 90)

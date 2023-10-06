@@ -413,7 +413,7 @@
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")
     )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/ec3c893d-0b04-48cd-8e04-cc089172a9c9"
-      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "")
+      (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:Battery_CR1225")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/fd015f0a-0a40-4f15-9862-fbd574b0a42c"
       (reference "C1") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
@@ -539,7 +539,7 @@
       (reference "J1") (unit 1) (value "MEM2080-00-128-00-A") (footprint "SamacSys_Parts:MEM2080-00-128-00-A")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/4ef82506-97c9-41d2-9208-e5f94a2531cb"
-      (reference "J2") (unit 1) (value "Conn_01x06_Male") (footprint "SamacSys_Parts:Pads_1x6_P2.54mm")
+      (reference "J2") (unit 1) (value "Conn_01x06_Male") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_1008_2520Metric")
