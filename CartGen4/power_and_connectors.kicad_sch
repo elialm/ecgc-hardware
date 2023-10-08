@@ -851,7 +851,6 @@
     )
   )
 
-
   (junction (at 120.65 31.75) (diameter 0) (color 0 0 0 0)
     (uuid 01a3cd73-9c2c-43cf-ad62-c0e5060d2128)
   )
@@ -1943,10 +1942,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "GB_ADDR_5V[0..7]" (shape input) (at 193.04 71.12 180) (fields_autoplaced)
+  (global_label "GB_DATA_5V[0..7]" (shape input) (at 193.04 71.12 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 28f921ab-5f55-47f8-b726-02e567145cd5)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 173.6331 71.0406 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 174.1169 71.0406 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
