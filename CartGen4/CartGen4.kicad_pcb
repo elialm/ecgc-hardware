@@ -373,7 +373,7 @@
 
   (footprint "SamacSys_Parts:BGA49C50P7X7_400X400X100" (layer "F.Cu")
     (tedit 0) (tstamp 09e83325-89fa-4757-995e-9b64759fca4b)
-    (at 62.5 71.975)
+    (at 62.5 71.95)
     (descr "BGA49")
     (tags "Integrated Circuit")
     (property "Critical" "Y")
@@ -933,7 +933,7 @@
 
   (footprint "SamacSys_Parts:BGA132C50P14X14_800X800X135" (layer "F.Cu")
     (tedit 6524FC86) (tstamp 214bbc73-ab6b-40d5-bd6f-5cebf3b4c0f4)
-    (at 71.75 73.675)
+    (at 71.75 73.65)
     (descr "MN132")
     (tags "Integrated Circuit")
     (property "Critical" "Y")
