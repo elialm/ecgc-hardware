@@ -328,7 +328,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB9E0) (tstamp 09b31d66-ab63-40c4-ba60-433d08ad67c3)
-    (at 167.845 111.835)
+    (at 33.95 42.8)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Critical" "Y")
@@ -342,7 +342,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 74096bdc-b668-408c-af3a-b048c20bd605)
     )
-    (fp_text value "15K" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "15K" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dc628a9d-67e8-4a03-b99f-8cc7a42af6ef)
     )
@@ -373,7 +373,7 @@
 
   (footprint "SamacSys_Parts:BGA49C50P7X7_400X400X100" (layer "F.Cu")
     (tedit 0) (tstamp 09e83325-89fa-4757-995e-9b64759fca4b)
-    (at 81.5 60.5)
+    (at 62.5 70.55)
     (descr "BGA49")
     (tags "Integrated Circuit")
     (property "Critical" "Y")
@@ -522,7 +522,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 0d5bc4f8-a759-4fd0-b595-4b05aed09f33)
-    (at 206.875 49.805)
+    (at 108 74.6)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -536,7 +536,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 02538207-54a8-4266-8d51-23871852b2ff)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 17ed3508-fa2e-4593-a799-bfd39a6cc14d)
     )
@@ -776,7 +776,7 @@
 
   (footprint "SamacSys_Parts:NE555DR" (layer "F.Cu")
     (tedit 0) (tstamp 17861678-dd51-4503-a1a8-46f251018b92)
-    (at 47.5 61.5)
+    (at 115.2 138.55)
     (descr "D (R-PDSO-G8)")
     (tags "Integrated Circuit")
     (property "Critical" "Y")
@@ -851,7 +851,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp af6ac8e6-193c-4bd2-ac0b-7f515b538a8b)
     )
-    (fp_text value "1K" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "1K" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3b6dda98-f455-4961-854e-3c4cceecffcc)
     )
@@ -934,7 +934,7 @@
 
   (footprint "SamacSys_Parts:BGA132C50P14X14_800X800X135" (layer "F.Cu")
     (tedit 6524FC86) (tstamp 214bbc73-ab6b-40d5-bd6f-5cebf3b4c0f4)
-    (at 79 72.5)
+    (at 71.75 72.25)
     (descr "MN132")
     (tags "Integrated Circuit")
     (property "Critical" "Y")
@@ -1296,7 +1296,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 26d95cf9-7f7b-4e62-bdf3-e6feb4a14edd)
-    (at 209.225 46.285)
+    (at 108.25 70.1)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -1310,7 +1310,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp e69c64f9-717d-4a97-b3df-80325ec2fa63)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 799e761c-1426-40e9-a069-1f4cb353bfaa)
     )
@@ -1388,7 +1388,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 2c7405c3-299c-40c0-890a-199513ed536d)
-    (at 198.175 52.315)
+    (at 97.4 74.65)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -1402,7 +1402,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp e2fac877-439c-4da0-af2e-5fdc70f85d42)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp da546d77-4b03-4562-8fc6-837fd68e7691)
     )
@@ -1433,7 +1433,7 @@
 
   (footprint "SamacSys_Parts:SOP50P490X110-10N" (layer "F.Cu")
     (tedit 651FE683) (tstamp 360f1c62-55f9-41cc-815f-f6521308fbf3)
-    (at 47.314 70.5)
+    (at 157.2 124.55)
     (descr "10L UMAX/USOP")
     (tags "Integrated Circuit")
     (property "Critical" "N")
@@ -1502,7 +1502,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 3c499b87-ecbc-46f3-9628-0110ee44068a)
-    (at 254.045 38.755)
+    (at 113.2175 79.5)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -1516,7 +1516,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 06665bf8-cef1-4e75-8d5b-1537b3c1b090)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9fdca5c2-1fbd-4774-a9c3-8795a40c206d)
     )
@@ -1593,7 +1593,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB9E0) (tstamp 3e8b9b02-8f6c-4fa2-88e3-e762c39dd956)
-    (at 167.845 109.325)
+    (at 148.5 127.85)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Critical" "Y")
@@ -1607,7 +1607,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 4c8704fa-310a-4c01-8dc1-2b7e2727fea0)
     )
-    (fp_text value "15K" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "15K" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6742a066-6a5f-4185-90ae-b7fe8c6eda52)
     )
@@ -1676,7 +1676,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 3ffb15bb-a037-447a-a264-9aa33402716a)
-    (at 202.525 52.315)
+    (at 97.4 78.45)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -1690,7 +1690,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 363945f6-fbef-42be-99cf-4a8a48434d92)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0cc9bf07-55b9-458f-b8aa-41b2f51fa940)
     )
@@ -1968,7 +1968,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 48498ce7-eca9-44e0-bc6d-7ca5752498ba)
-    (at 198.175 49.805)
+    (at 97.1 70.3)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -1982,7 +1982,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 968a6172-7a4e-40ab-a78a-e4d03671e136)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 26a22c19-4cc5-4237-9651-0edc4f854154)
     )
@@ -2213,7 +2213,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 57606ed3-16d1-4fd0-b765-da24ce56b91c)
-    (at 209.225 41.265)
+    (at 113.25 69.7)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -2227,7 +2227,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 749d9ed0-2ff2-4b55-abc5-f7231ec3aa28)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 54ed3ee1-891b-418e-ab9c-6a18747d7388)
     )
@@ -2305,7 +2305,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 5f97827f-c36d-47fb-b3b4-3d9bc5c240ba)
-    (at 146.655 45.905)
+    (at 99.105 54.005)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -2319,7 +2319,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 8aff0f38-92a8-45ec-b106-b185e93ca3fd)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 63caf46e-0228-40de-b819-c6bd29dd1711)
     )
@@ -2484,7 +2484,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 72d49a74-c099-475b-bb25-bccb3de8c910)
-    (at 97.125 124.725)
+    (at 103.3 117.7)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -2498,7 +2498,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 5f31b97b-d794-46d6-bbd9-7a5638bcf704)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3c9169cc-3a77-4ae0-8afc-cbfc472a28c5)
     )
@@ -2529,7 +2529,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 740d808e-81c5-443d-b28d-65c820283f9a)
-    (at 254.045 41.265)
+    (at 117.8825 69.8)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -2543,7 +2543,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 87ba184f-bff5-4989-8217-6af375cc3dd8)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6ae963fb-e34f-4e11-9adf-78839a5b2ef1)
     )
@@ -2655,7 +2655,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB9E0) (tstamp 7aa9dd73-4807-4063-99f0-eb8031d9cd0f)
-    (at 152.995 136.355)
+    (at 108.745 137.405)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Critical" "Y")
@@ -2775,7 +2775,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 89e22c71-ad8a-407f-a241-4c472e4fec3e)
-    (at 198.175 54.825)
+    (at 102.55 74.15)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -2789,7 +2789,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp a92f3b72-ed6d-4d99-9da6-35771bec3c77)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp aa1c6f47-cbd4-4cbd-8265-e5ac08b7ffc8)
     )
@@ -2820,7 +2820,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 8dd5b0e2-3f98-4093-9f92-cb0401da45a3)
-    (at 142.305 45.905)
+    (at 94.755 54.005)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -2834,7 +2834,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp fa20e708-ec85-4e0b-8402-f74a2724f920)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 21492bcd-343a-4b2b-b55a-b4586c11bdeb)
     )
@@ -2865,7 +2865,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 9264fccb-2a3e-4cf0-b462-9d23c3a70e48)
-    (at 149.455 38.755)
+    (at 98.65 56.7)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -2879,7 +2879,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 465137b4-f6f7-4d51-9b40-b161947d5cc1)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d1cd5391-31d2-459f-8adb-4ae3f304a833)
     )
@@ -2910,7 +2910,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 931c12c2-2c0c-4e02-8194-d05e3508308a)
-    (at 209.225 38.755)
+    (at 107.95 78.8)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -2924,7 +2924,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp aee7520e-3bfc-435f-a66b-1dd1f5aa6a87)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7b766787-7689-40b8-9ef5-c0b1af45a9ae)
     )
@@ -2955,7 +2955,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 9a06a591-be17-4555-b011-665f0d68eb82)
-    (at 166.595 117.855)
+    (at 121.5 139.95)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -3000,7 +3000,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp 9bc8abb7-fd93-47c2-9a23-4560c588d203)
-    (at 142.305 48.415)
+    (at 94.755 56.515)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -3014,7 +3014,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp ca6e2466-a90a-4dab-be16-b070610e5087)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d18f2428-546f-4066-8ffb-7653303685db)
     )
@@ -3045,7 +3045,7 @@
 
   (footprint "SamacSys_Parts:FC135R327680KAE3" (layer "F.Cu")
     (tedit 0) (tstamp a013b01d-67ea-4b0c-8baa-9870788db576)
-    (at 154.97 132.65)
+    (at 150.1 123.7)
     (descr "FC-135R 32.7680KA-E3-5")
     (tags "Crystal or Oscillator")
     (property "Critical" "N")
@@ -3277,7 +3277,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB9E0) (tstamp b6e03d2b-7c15-46c3-ab53-4e480e2c8759)
-    (at 202.525 49.805)
+    (at 96.45 62.75)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Critical" "Y")
@@ -3291,7 +3291,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 8ef1307e-4e79-474d-a93c-be38f714571c)
     )
-    (fp_text value "15K" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "15K" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 653e74f0-0a40-4ab5-8f5c-787bbaf1d723)
     )
@@ -3322,7 +3322,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp b86f27ad-7fa5-4eb4-bae5-6af48cdfb3bf)
-    (at 254.045 43.775)
+    (at 113.3 74.55)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -3336,7 +3336,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 08ec951f-e7eb-41cf-9589-697107a98e88)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2eea20e6-112c-411a-b615-885ae773135a)
     )
@@ -3367,7 +3367,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp bf006377-94a4-4cdf-b644-566beb7997fc)
-    (at 172.195 109.325)
+    (at 33.7 48.1)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -3381,7 +3381,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp f8b47531-6c06-4e54-9fc9-cd9d0f3dd69f)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0ce1dd44-f307-4f98-9f0d-478fd87daa64)
     )
@@ -3412,7 +3412,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB9E0) (tstamp c45e9670-93dd-4864-b759-b536205bd1f7)
-    (at 115.4025 23.5)
+    (at 101.3 62.35)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor handsolder")
     (property "Critical" "Y")
@@ -3426,7 +3426,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 5a397f61-35c4-4c18-9dcd-73a2d44cc9af)
     )
-    (fp_text value "50K" (at 0 1.17) (layer "F.Fab")
+    (fp_text value "50K" (at 0 1.17) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 0a8dfc5c-35dc-4e44-a2bf-5968ebf90cca)
     )
@@ -3505,7 +3505,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp c8c5c6d4-b1f0-42fc-bd7f-72a98f469383)
-    (at 167.845 114.345)
+    (at 163.0675 124.7)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -3519,7 +3519,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 62f15a9a-9893-486e-9ad0-ea43f88fc9e7)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b2b363dd-8e47-4a76-a142-e00e28334875)
     )
@@ -3550,7 +3550,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp c8f539d4-0487-40b0-ad11-331fd9ab27d5)
-    (at 213.575 38.755)
+    (at 102.75 70.05)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -3564,7 +3564,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp ea2ea877-1ce1-4cd6-ad19-1da87f51601d)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f699494a-77d6-4c73-bd50-29c1c1c5b879)
     )
@@ -3650,7 +3650,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp cef11cac-132f-4e52-ad09-7fec056068ba)
-    (at 258.395 38.755)
+    (at 117.7675 75.25)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -3664,7 +3664,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 645bdbdc-8f65-42ef-a021-2d3e7d74a739)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b1ba92d5-0d41-4be9-b483-47d08dc1785d)
     )
@@ -3741,7 +3741,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (layer "F.Cu")
     (tedit 5F6BB22C) (tstamp e34f1492-9a23-42b2-9c69-69b2a33fa6fa)
-    (at 209.225 43.775)
+    (at 102.45 78.5)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor handsolder")
     (property "Critical" "N")
@@ -3755,7 +3755,7 @@
       (effects (font (size 0.6 0.6) (thickness 0.125)))
       (tstamp 430d6d73-9de6-41ca-b788-178d709f4aae)
     )
-    (fp_text value "100n" (at 0 1.16) (layer "F.Fab")
+    (fp_text value "100n" (at 0 1.16) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3efa2ece-8f3f-4a8c-96e9-6ab3ec6f1f70)
     )
