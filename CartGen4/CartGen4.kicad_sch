@@ -538,8 +538,8 @@
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/1eaa675f-d411-4e9f-af7f-e72864d0e0e1"
       (reference "J1") (unit 1) (value "MEM2080-00-128-00-A") (footprint "SamacSys_Parts:MEM2080-00-128-00-A")
     )
-    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/4ef82506-97c9-41d2-9208-e5f94a2531cb"
-      (reference "J2") (unit 1) (value "Conn_01x06_Male") (footprint "")
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/d341df74-d404-4c0e-bfeb-d0bcd9f4785d"
+      (reference "J2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_1008_2520Metric")
@@ -604,8 +604,8 @@
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/1e1f5ef0-fa60-4713-9ac1-b843098a7d9b"
       (reference "R18") (unit 1) (value "15K") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
-    (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/c43d5633-4057-4338-a482-2b064b4fd4ae"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Button_Switch_SMD:SW_SPST_TL3305A")
+    (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/de85eafd-55d7-4f64-93d1-ad7e53577dee"
+      (reference "SW1") (unit 1) (value "EVQ-P7A01P") (footprint "SamacSys_Parts:EVQP7J01P")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/e190d083-d82d-481a-a7b8-1c8c0afec670"
       (reference "U1") (unit 1) (value "TPS65266-1RHBR") (footprint "SamacSys_Parts:QFN50P500X500X100-33N-D")
