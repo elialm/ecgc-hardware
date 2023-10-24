@@ -389,25 +389,25 @@
       (reference "#PWR0102") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/18363b93-453b-47fb-9fea-a3d7ae49fdfc"
-      (reference "#PWR?") (unit 1) (value "+1V2") (footprint "")
-    )
-    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/29f04bc4-361b-4481-aea5-d3bb4fa364c5"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/3cc9113c-9f70-4b24-82c8-ecf76fe109d7"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/912e36ee-e7cf-43e3-b2b7-2ada70f83de1"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0103") (unit 1) (value "+1V2") (footprint "")
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/a76338b0-94ef-49d4-b494-c11f0317ef2c"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/bc95feab-4246-48c0-89ce-316ee69421e6"
-      (reference "#PWR?") (unit 1) (value "+1V8") (footprint "")
+      (reference "#PWR0105") (unit 1) (value "+1V8") (footprint "")
+    )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/29f04bc4-361b-4481-aea5-d3bb4fa364c5"
+      (reference "#PWR0106") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/bdc935e0-2459-42e9-b0c6-737e73343a37"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/912e36ee-e7cf-43e3-b2b7-2ada70f83de1"
+      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/3cc9113c-9f70-4b24-82c8-ecf76fe109d7"
+      (reference "#PWR0109") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1b8d5810-67b5-41f5-a4e9-e6c2cc9fec50"
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")
