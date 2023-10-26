@@ -492,7 +492,7 @@
   )
 
   (no_connect (at 163.83 66.04) (uuid 2966bc2f-9514-4881-9555-ad456a0e8c8d))
-  (no_connect (at 194.31 68.58) (uuid 2966bc2f-9514-4881-9555-ad456a0e8c8d))
+  (no_connect (at 194.31 68.58) (uuid 2966bc2f-9514-4881-9555-ad456a0e8c8e))
 
   (wire (pts (xy 90.17 63.5) (xy 92.71 63.5))
     (stroke (width 0) (type default) (color 0 0 0 0))
