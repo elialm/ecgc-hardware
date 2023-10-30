@@ -404,10 +404,10 @@
       (reference "#PWR0109") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/996e0f8b-b82f-446e-81c9-0f6df82e93d3"
-      (reference "#PWR?") (unit 1) (value "+1V2") (footprint "")
+      (reference "#PWR0110") (unit 1) (value "+1V2") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/dea2ce42-f49f-4b86-a5e4-fccc85d3b555"
-      (reference "#PWR?") (unit 1) (value "+1V8") (footprint "")
+      (reference "#PWR0111") (unit 1) (value "+1V8") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1b8d5810-67b5-41f5-a4e9-e6c2cc9fec50"
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")
@@ -539,7 +539,7 @@
       (reference "J1") (unit 1) (value "MEM2080-00-128-00-A") (footprint "SamacSys_Parts:MEM2080-00-128-00-A")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/d341df74-d404-4c0e-bfeb-d0bcd9f4785d"
-      (reference "J2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal")
+      (reference "J2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_1008_2520Metric")
