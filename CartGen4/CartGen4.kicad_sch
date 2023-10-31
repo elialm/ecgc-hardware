@@ -13,6 +13,18 @@
   )
 
 
+  (sheet (at 63.5 38.1) (size 20.32 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 36ce4ffd-44e6-403f-b850-25c002dce5eb)
+    (property "Sheet name" "debug_ports" (id 0) (at 63.5 37.3884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "debug_ports.kicad_sch" (id 1) (at 63.5 51.3846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 25.4 38.1) (size 20.32 12.7) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -106,6 +118,7 @@
     (path "/6fc5aafb-5a22-4bda-8f08-f38eb0e112cc" (page "6"))
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721" (page "7"))
     (path "/c0de9d84-51e9-4175-bb13-3213096ac344" (page "8"))
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb" (page "9"))
   )
 
   (symbol_instances
@@ -154,7 +167,7 @@
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/4211b3a5-30a3-45d5-a45d-1da51332847d"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
     )
-    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/29405421-cb76-4eb6-9e9f-fff247a228fb"
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/4f06e38f-fb7c-4d1b-860e-fcc3c051f845"
       (reference "#PWR016") (unit 1) (value "GND") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/bccd66ae-2e08-44fd-898e-cab0ffea09d9"
@@ -301,11 +314,20 @@
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/3b61e718-d8b6-41c1-9a58-98ad21c68960"
       (reference "#PWR064") (unit 1) (value "GND") (footprint "")
     )
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/93aa40b6-bef5-42fa-8e30-902e4ca42004"
+      (reference "#PWR065") (unit 1) (value "GND") (footprint "")
+    )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/6c3a4a37-01ca-4bdc-8d1b-7ba403960e15"
       (reference "#PWR066") (unit 1) (value "+1V8") (footprint "")
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/1d90c8fe-6680-4a2a-ae52-6871af96de94"
       (reference "#PWR067") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/29405421-cb76-4eb6-9e9f-fff247a228fb"
+      (reference "#PWR068") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/ef58feb6-b488-41d3-99c3-65a2164e4cd6"
+      (reference "#PWR069") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/1e8f1802-5e65-4a38-a899-cb4ea4774e61"
       (reference "#PWR070") (unit 1) (value "+3V3") (footprint "")
@@ -376,9 +398,6 @@
     (path "/c0de9d84-51e9-4175-bb13-3213096ac344/ffbef0a1-8c3b-4f25-bdc4-6bb1d9a8415f"
       (reference "#PWR096") (unit 1) (value "GND") (footprint "")
     )
-    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/93aa40b6-bef5-42fa-8e30-902e4ca42004"
-      (reference "#PWR098") (unit 1) (value "GND") (footprint "")
-    )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/b6280de6-3c34-4640-868d-ea1ae178502d"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -411,9 +430,6 @@
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/dea2ce42-f49f-4b86-a5e4-fccc85d3b555"
       (reference "#PWR0111") (unit 1) (value "+1V8") (footprint "")
-    )
-    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/ef58feb6-b488-41d3-99c3-65a2164e4cd6"
-      (reference "#PWR0112") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1b8d5810-67b5-41f5-a4e9-e6c2cc9fec50"
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")
@@ -538,16 +554,19 @@
     (path "/c0de9d84-51e9-4175-bb13-3213096ac344/454ea407-2f72-4fa0-894f-85a6430a855f"
       (reference "C39") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
     )
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/8d993b11-e0c7-4377-9064-b6937c1178b0"
+      (reference "C40") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+    )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/18009ba6-fe8f-48ae-b5c0-f735d659a1e6"
       (reference "D1") (unit 1) (value "PESD3V3Y1BSFYL") (footprint "SamacSys_Parts:PESD3V3Y1BSFYL")
     )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/1eaa675f-d411-4e9f-af7f-e72864d0e0e1"
       (reference "J1") (unit 1) (value "MEM2080-00-128-00-A") (footprint "SamacSys_Parts:MEM2080-00-128-00-A")
     )
-    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/d341df74-d404-4c0e-bfeb-d0bcd9f4785d"
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/d341df74-d404-4c0e-bfeb-d0bcd9f4785d"
       (reference "J2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical")
     )
-    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/f15d430b-6a9c-44ac-884d-e5b89d2c844b"
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/f15d430b-6a9c-44ac-884d-e5b89d2c844b"
       (reference "J3") (unit 1) (value "Conn_02x09_Odd_Even") (footprint "Connector_PinHeader_1.00mm:PinHeader_2x09_P1.00mm_Vertical")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
@@ -612,6 +631,9 @@
     )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/1e1f5ef0-fa60-4713-9ac1-b843098a7d9b"
       (reference "R18") (unit 1) (value "15K") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+    )
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/08688eb2-6662-41ab-80a7-03c187b5b46a"
+      (reference "R19") (unit 1) (value "220K") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/de85eafd-55d7-4f64-93d1-ad7e53577dee"
       (reference "SW1") (unit 1) (value "EVQ-P7A01P") (footprint "SamacSys_Parts:EVQP7J01P")
