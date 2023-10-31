@@ -413,7 +413,7 @@
       (reference "#PWR0111") (unit 1) (value "+1V8") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/ef58feb6-b488-41d3-99c3-65a2164e4cd6"
-      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+      (reference "#PWR0112") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1b8d5810-67b5-41f5-a4e9-e6c2cc9fec50"
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")
@@ -548,7 +548,7 @@
       (reference "J2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/f15d430b-6a9c-44ac-884d-e5b89d2c844b"
-      (reference "J3") (unit 1) (value "Conn_02x09_Odd_Even") (footprint "")
+      (reference "J3") (unit 1) (value "Conn_02x09_Odd_Even") (footprint "Connector_PinHeader_1.00mm:PinHeader_2x09_P1.00mm_Vertical")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_1008_2520Metric")
