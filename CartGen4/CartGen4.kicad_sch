@@ -154,6 +154,9 @@
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/4211b3a5-30a3-45d5-a45d-1da51332847d"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
     )
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/29405421-cb76-4eb6-9e9f-fff247a228fb"
+      (reference "#PWR016") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/bccd66ae-2e08-44fd-898e-cab0ffea09d9"
       (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
@@ -162,6 +165,9 @@
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/502bada3-bbc3-4a40-9cb8-e93804209e3a"
       (reference "#PWR019") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/1a95e564-5f2a-419f-a5fd-d9715fb6231b"
+      (reference "#PWR020") (unit 1) (value "+1V8") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/2e268217-9f2f-482c-8d8b-46404ec91e35"
       (reference "#PWR021") (unit 1) (value "GND") (footprint "")
@@ -276,6 +282,9 @@
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/142bd46e-5022-4e6c-9d6b-9e8fc9b8b5a2"
       (reference "#PWR058") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/e5ad8c29-b1a6-4294-af0e-a53f620d8884"
+      (reference "#PWR059") (unit 1) (value "GND") (footprint "")
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/12a3c843-c8eb-48b3-8a2b-58f9ec7518d6"
       (reference "#PWR060") (unit 1) (value "+3V3") (footprint "")
@@ -402,12 +411,6 @@
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/dea2ce42-f49f-4b86-a5e4-fccc85d3b555"
       (reference "#PWR0111") (unit 1) (value "+1V8") (footprint "")
-    )
-    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/f7344c2a-7d32-4a89-b64f-ba27b62d14ca"
-      (reference "#PWR0112") (unit 1) (value "+1V8") (footprint "")
-    )
-    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/f89b1101-c117-456f-9da2-5d43ec9522ce"
-      (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1b8d5810-67b5-41f5-a4e9-e6c2cc9fec50"
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")
@@ -541,6 +544,9 @@
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/d341df74-d404-4c0e-bfeb-d0bcd9f4785d"
       (reference "J2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_1.00mm:PinHeader_1x05_P1.00mm_Vertical")
     )
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/e9d778d4-81fc-4ef8-b23b-8bc83f5578ae"
+      (reference "J3") (unit 1) (value "Conn_02x08_Odd_Even") (footprint "Connector_PinHeader_1.00mm:PinHeader_2x08_P1.00mm_Vertical")
+    )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_1008_2520Metric")
     )
@@ -634,7 +640,7 @@
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/3b80cf20-b12b-49a6-84bd-473603c85348"
       (reference "U9") (unit 1) (value "LFXP2-8E-5MN132C") (footprint "SamacSys_Parts:BGA132C50P14X14_800X800X135")
     )
-    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/f0bc50ba-607a-43ae-a05f-e7c2af47f898"
+    (path "/c0de9d84-51e9-4175-bb13-3213096ac344/1ab31e72-5d97-419d-aa21-4e92777ea541"
       (reference "U9") (unit 2) (value "LFXP2-8E-5MN132C") (footprint "SamacSys_Parts:BGA132C50P14X14_800X800X135")
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/f61655d7-5449-47b8-9e48-9d7ea80abb6f"
