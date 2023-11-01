@@ -566,8 +566,8 @@
     (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/d341df74-d404-4c0e-bfeb-d0bcd9f4785d"
       (reference "J2") (unit 1) (value "Conn_01x05_Male") (footprint "Connector_PinHeader_1.27mm:PinHeader_1x05_P1.27mm_Vertical")
     )
-    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/f15d430b-6a9c-44ac-884d-e5b89d2c844b"
-      (reference "J3") (unit 1) (value "Conn_02x09_Odd_Even") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x09_P1.27mm_Vertical")
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/23207d9c-c5b4-41d4-8dea-3d4f1f8a1b15"
+      (reference "J3") (unit 1) (value "Conn_02x10_Odd_Even") (footprint "Connector:Conn_02x10")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/42ea6df8-6ad7-4a48-a860-9865d99a1cf3"
       (reference "L1") (unit 1) (value "10u") (footprint "Inductor_SMD:L_1008_2520Metric")
