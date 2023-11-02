@@ -575,6 +575,9 @@
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/d475b65c-8aff-4afb-97e1-c54e2ac8b8df"
       (reference "C44") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
     )
+    (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/fad14348-5d7d-4c61-ab38-924d6d512cd6"
+      (reference "C45") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+    )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/18009ba6-fe8f-48ae-b5c0-f735d659a1e6"
       (reference "D1") (unit 1) (value "PESD3V3Y1BSFYL") (footprint "SamacSys_Parts:PESD3V3Y1BSFYL")
     )
