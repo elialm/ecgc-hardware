@@ -435,7 +435,7 @@
       (reference "#PWR0111") (unit 1) (value "+1V8") (footprint "")
     )
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/c5e67326-3b3f-4590-bfe1-a3e5d4fc6b11"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0112") (unit 1) (value "+5V") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1b8d5810-67b5-41f5-a4e9-e6c2cc9fec50"
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")

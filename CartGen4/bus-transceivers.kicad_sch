@@ -2213,7 +2213,7 @@
   (symbol (lib_id "power:+5V") (at 218.44 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid c5e67326-3b3f-4590-bfe1-a3e5d4fc6b11)
-    (property "Reference" "#PWR?" (id 0) (at 218.44 57.15 0)
+    (property "Reference" "#PWR0112" (id 0) (at 218.44 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 218.44 48.26 0))
