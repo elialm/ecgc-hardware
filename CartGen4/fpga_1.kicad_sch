@@ -1371,8 +1371,8 @@
     (uuid ff5bee1c-e3fd-4076-9ea1-5fe7ef097791)
   )
 
-  (text "This sheet contains connections to the FPGA.\nIt contains the following:\n    - Gameboy connections (address, data and control)"
-    (at 179.07 173.99 0)
+  (text "This sheet contains connections to the FPGA.\nIt contains the following:\n    - Gameboy connections (address, data and control)\n    - Some RAM signals\n    - Some general purpose signals"
+    (at 179.07 177.8 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0ff42a8e-81f1-4966-a320-672d39619cb1)
   )
