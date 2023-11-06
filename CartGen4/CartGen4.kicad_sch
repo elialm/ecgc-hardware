@@ -197,6 +197,9 @@
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/05710962-5a97-4f68-95da-61f7c3f80b86"
       (reference "#PWR025") (unit 1) (value "GND") (footprint "")
     )
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/c279e18f-c63b-4364-856e-eb942d9ca537"
+      (reference "#PWR026") (unit 1) (value "GND") (footprint "")
+    )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/eef10eb6-644b-4315-8985-b3887506fe07"
       (reference "#PWR027") (unit 1) (value "GND") (footprint "")
     )
@@ -428,14 +431,14 @@
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/996e0f8b-b82f-446e-81c9-0f6df82e93d3"
       (reference "#PWR0110") (unit 1) (value "+1V2") (footprint "")
     )
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/e54e53cc-284e-44d8-830e-3b88a5d21b2c"
+      (reference "#PWR0111") (unit 1) (value "+3V3") (footprint "")
+    )
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/c5e67326-3b3f-4590-bfe1-a3e5d4fc6b11"
       (reference "#PWR0112") (unit 1) (value "+5V") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/66e5ffb0-c929-4d82-8ec0-170327964a62"
-      (reference "#PWR?") (unit 1) (value "+1V8") (footprint "")
-    )
-    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/e54e53cc-284e-44d8-830e-3b88a5d21b2c"
-      (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
+      (reference "#PWR0113") (unit 1) (value "+1V8") (footprint "")
     )
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1b8d5810-67b5-41f5-a4e9-e6c2cc9fec50"
       (reference "A1") (unit 1) (value "GBC_Cart") (footprint "Boards:GBC_Cart")
@@ -577,6 +580,9 @@
     )
     (path "/89c162de-8374-4cb6-9c74-abac2a052a8d/fad14348-5d7d-4c61-ab38-924d6d512cd6"
       (reference "C45") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
+    )
+    (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/6c7644f4-0a3e-4bb8-af30-7ac552b065aa"
+      (reference "C46") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/18009ba6-fe8f-48ae-b5c0-f735d659a1e6"
       (reference "D1") (unit 1) (value "PESD3V3Y1BSFYL") (footprint "SamacSys_Parts:PESD3V3Y1BSFYL")
