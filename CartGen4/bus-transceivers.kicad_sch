@@ -2117,7 +2117,7 @@
     (property "Reference" "R14" (id 0) (at 52.07 72.3899 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "15K" (id 1) (at 52.07 74.9299 0)
+    (property "Value" "50K" (id 1) (at 52.07 74.9299 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder" (id 2) (at 47.752 73.66 90)
