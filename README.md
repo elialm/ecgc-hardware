@@ -11,14 +11,14 @@ The `CartGen3ProtoBoard` directory contains the schematics for the
 first working prototype mentioned at [my website](https://efacdev.nl/posts/ecgc/20220601).
 The photograph below is this prototype.
 
-![gen3prototype-photo](https://user-images.githubusercontent.com/43206514/217519505-81669f43-df62-44b2-97f7-6338e39c4504.png)
+[gen3prototype-photo](https://user-images.githubusercontent.com/43206514/217519505-81669f43-df62-44b2-97f7-6338e39c4504.png)
 
 The `CartGen4` directory contains the schematics for the
 next prototype.
 I've included some renders of it below.
 
-![gen4-render-front](/CartGen4/img/front.png)
-![gen4-render-back](/CartGen4/img/back.png)
+[gen4-render-front](/CartGen4/img/front.png)  
+[gen4-render-back](/CartGen4/img/back.png)
 
 # Development tools
 
