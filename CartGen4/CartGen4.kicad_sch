@@ -579,7 +579,7 @@
       (reference "C45") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder")
     )
     (path "/36ce4ffd-44e6-403f-b850-25c002dce5eb/6c7644f4-0a3e-4bb8-af30-7ac552b065aa"
-      (reference "C46") (unit 1) (value "1u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
+      (reference "C46") (unit 1) (value "10u") (footprint "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder")
     )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/18009ba6-fe8f-48ae-b5c0-f735d659a1e6"
       (reference "D1") (unit 1) (value "PESD3V3Y1BSFYL") (footprint "SamacSys_Parts:PESD3V3Y1BSFYL")
