@@ -619,7 +619,7 @@
     (uuid fcca0afb-22fc-42c3-999c-4d7b26999eba)
   )
 
-  (text "Describes the debug/expansion and JTAG headers.\nHeader J2 is used to connect to the JTAG chain.\nHeader J3 is used to connect to a variety of signals used for debugging, diagnostics\nand future expandability."
+  (text "Describes the debug/expansion and JTAG headers.\nHeader J3 is used to connect to the JTAG chain.\nHeader J2 is used to connect to a variety of signals used for debugging, diagnostics\nand future expandability."
     (at 179.07 175.26 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid d71e207a-1919-45c9-a642-14297e129893)
