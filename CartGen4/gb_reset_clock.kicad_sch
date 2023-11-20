@@ -996,7 +996,7 @@
     (property "MFP" "EVQ-P7A01P" (id 14) (at 163.83 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Notes" "Reset button for gracefull shutdown of game (for saving game data)" (id 14) (at 163.83 66.04 0)
+    (property "Notes" "Reset button for gracefull shutdown of game (for saving game data)" (id 15) (at 163.83 66.04 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "Tactile Switches 3.5x2.9mm Right Ang Light Touch Switch" (id 15) (at 163.83 66.04 0)

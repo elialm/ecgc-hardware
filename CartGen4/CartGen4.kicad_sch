@@ -638,6 +638,9 @@
     (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/1f17bc6d-9179-47ee-8555-fc3990f04467"
       (reference "R12") (unit 1) (value "15K") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
+    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/08688eb2-6662-41ab-80a7-03c187b5b46a"
+      (reference "R13") (unit 1) (value "220K") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
+    )
     (path "/67020394-371c-451d-9641-dd6c212cfc5e/91a88e00-21cd-453a-800f-b6a28e3656f3"
       (reference "R14") (unit 1) (value "15K") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
@@ -652,9 +655,6 @@
     )
     (path "/a842574a-62bd-4545-b3b1-b3137c6c2721/1e1f5ef0-fa60-4713-9ac1-b843098a7d9b"
       (reference "R18") (unit 1) (value "15K") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
-    )
-    (path "/4ef07d45-f940-4cb6-bb96-2ddec13fd099/08688eb2-6662-41ab-80a7-03c187b5b46a"
-      (reference "R19") (unit 1) (value "220K") (footprint "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder")
     )
     (path "/76bc839d-93e8-4c60-b95d-ac552335ae99/de85eafd-55d7-4f64-93d1-ad7e53577dee"
       (reference "SW1") (unit 1) (value "EVQ-P7A01P") (footprint "SamacSys_Parts:EVQP7J01P")
