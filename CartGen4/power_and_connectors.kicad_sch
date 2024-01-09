@@ -4010,7 +4010,7 @@
     (property "Package ID" "0402" (id 11) (at 53.34 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Supplier suggestion" "https://nl.mouser.com/ProductDetail/ROHM-Semiconductor/ESR01MZPF3902?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NgClcB2OxpM9V0RG8k%252BPcGA%3D%3D" (id 12) (at 53.34 93.98 0)
+    (property "Supplier suggestion" "https://nl.mouser.com/ProductDetail/YAGEO/AC0402FR-0739KL?qs=sGAEpiMZZMvdGkrng054t1dXgLbs7QPXjrUf9Q5QEPg%3D" (id 12) (at 53.34 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0dadb87d-1179-4cef-a2dd-e595c07010aa))
