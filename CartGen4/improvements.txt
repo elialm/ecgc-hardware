@@ -1,0 +1,18 @@
+- JTAG connector requires +3V3 VCC
+    - workaround: use +3V3 on expansion header (or take +3V3 from somewhere else)
+    - solution: add it
+- CSSPIN cannot be used when CFG0 = 0
+    - see Q1
+    - workaround: cut trace to flash CS in a manner that still has R5 connected as pullup to flash CS.
+    use on of the USER pins on expansion header as temporary substitute.
+    though, this modification makes the FPGA unable to load configuration from SPI, but so be it.
+    - solution: ???
+
+quote from Lattice [Q1](https://www.latticesemi.com/en/Support/AnswerDatabase/2/0/4/2043):
+    When using the LatticeXP2 device in dual boot mode, the FPGA continuously drives the CSSPIN high.
+
+    The CSSPIN is considered a dual-purpose pin. However while the CFG0 pin = 0,
+    controlling the dual-boot function, it will cause CSSPIN to be a dedicated configuration pin.
+    CSSPIN will then drive high anytime it isn't trying to access the external SPI Flash device.
+    Users desiring to use CSSPIN as a GPIO can make the CFG0 pin = 1 after configuration,
+    this will return the CSSPIN pin to its default I/O behavior allowing GPIO use of the pin.
