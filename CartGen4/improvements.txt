@@ -7,6 +7,11 @@
     use on of the USER pins on expansion header as temporary substitute.
     though, this modification makes the FPGA unable to load configuration from SPI, but so be it.
     - solution: ???
+- pullup on TOE
+    - recommended according to family datasheet
+- increase decoupling capacitance of SD card
+    - current 100n is way to little
+    - shields typically use around 47u
 
 quote from Lattice [Q1](https://www.latticesemi.com/en/Support/AnswerDatabase/2/0/4/2043):
     When using the LatticeXP2 device in dual boot mode, the FPGA continuously drives the CSSPIN high.
