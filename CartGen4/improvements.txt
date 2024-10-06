@@ -21,3 +21,6 @@ quote from Lattice [Q1](https://www.latticesemi.com/en/Support/AnswerDatabase/2/
     CSSPIN will then drive high anytime it isn't trying to access the external SPI Flash device.
     Users desiring to use CSSPIN as a GPIO can make the CFG0 pin = 1 after configuration,
     this will return the CSSPIN pin to its default I/O behavior allowing GPIO use of the pin.
+
+- Check reference designators for capacitors and resistors
+    - e.g. schematic implies that C17 is SD card decoupling capacitor, but on the board C33 is closer
