@@ -24,3 +24,15 @@ quote from Lattice [Q1](https://www.latticesemi.com/en/Support/AnswerDatabase/2/
 
 - Check reference designators for capacitors and resistors
     - e.g. schematic implies that C17 is SD card decoupling capacitor, but on the board C33 is closer
+    
+- Pulldown on TCK of 4.7k
+    From programming cable user guide
+    
+    A 4.7K pull-down resistor is recommended on the TCK connection of the target board. This pull-down is recommended
+    to avoid inadvertent clocking of the TAP controller induced by fast clock edges or as VCC ramps up. This pull-down is
+    recommended for all Lattice programmable families.
+
+- Pullup on INITN of 4.7k - 10k
+    From family datasheet:
+    
+    If not actively driven, the internal pull-up may not be sufficient. An external pull-up resistor of 4.7k to 10k is recommended
